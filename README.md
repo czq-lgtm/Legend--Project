@@ -1,4 +1,4 @@
-# AID1911 GIT学习
+# GIT学习
 
 ## python学习手册
 
